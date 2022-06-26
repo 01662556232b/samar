@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    font-family: 'Fjalla One', sans-serif;
+}
+.header__content{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.logo{
+    padding: 30px; 
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    width: 80%;
+}
+.clear{
+    clear: both;
+}
+.logo i{
+    
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    background-color:#002146;
+    font-size: 20px;
+    vertical-align: bottom;
+    color: #f8c402;
+    display: inline-block;
+    text-align: center;
+ 
+
+}
+.header__content a{
+    text-decoration: none;
+}
+.header__content ul{
+    list-style: none;
+    margin: 30px;
+}
+.header__content li{
+    font-weight: bolder;
+   
+    padding: 10px;
+    display: inline;
+    
+}
+.header__content nav ul li a {
+    color: #000;
+}
+.header__content nav ul li a:hover{
+    color: red;
+  
+}
+.banner img{
+    width: 100%;
+    background-size: cover;
+    height: 700px;
+  
+}
+
+.activites{
+    padding: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.act_left h3{
+    
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.act_left{
+    width: 50%;
+    float: left;
+}
+.act_left p {
+    margin-top: 25px;
+    font-size: 18px;
+}
+.act_left button{
+    border: 2px solid #fdc800;  
+    color: black;
+    background-color: #fdc800;
+    font-size: 15px;
+    margin-top: 35px;
+    padding: 15px 40px;
+    float: left;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+.act_left button:hover{
+    background-color: #0037ff;
+    color: aliceblue;
+}
+.banner img {
+    width: 100%;
+    background-size: cover;
+    height: 500px;
+  
+}
+.activites{
+    padding: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.act_left h3{
+    
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.act_left{
+    width: 50%;
+    float: left;
+}
+.act_left p {
+    margin-top: 25px;
+    font-size: 18px;
+}
+.act_left button{
+    border: 2px solid #fdc800;  
+    color: black;
+    background-color: #fdc800;
+    font-size: 15px;
+    margin-top: 35px;
+    padding: 15px 40px;
+    float: left;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+.act_left button:hover{
+    background-color: #0037ff;
+    color: aliceblue;
+}
+.act_right{ 
+    padding: 30px;
+    float: left;  
+    width: 50%;   
+}
+/* ul (ảnh hưởng cả hệ thống web) */
+.clear{
+    clear: both;
+}
+/* activites_content giữa */
+.activites_content{
+    width: 100%;
+    height: 160px;
+    background-color: #f6f6f6;
+    color: #002146;
+}
+.act_items{
+    padding: 50px;    
+}
+.act_intro{
+    width: 25%;
+    float: left;
+    padding: 0 50px;
+    
+}
+.act_number{
+    float: left;
+    margin-left: 45px;
+    font-size: 40px;
+}
+
+.act_text b{
+    float: left;
+    font-size: 20px;
+    padding-left: 20px;
+    word-break: break-all;
+    text-align: center;
+    text-align: left;
+    
+}
+/* activites_bottom duoi */
+.activites_bottom{
+    padding: 50px;
+    width: 100%;
+    margin: 0 auto;  
+}
+.bottom{
+  
+    width: 80%;
+    margin: 0 auto;  
+}
